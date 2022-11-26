@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SUCHATT
+- 👋 Hi, I’m Sumedh Chatterjee
 - 👀 I’m interested in programming and developing my own video games
 - 🌱 I’m currently studying Engineering
 - 💞️ I’m looking to collaborate on Game or software development 
